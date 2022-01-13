@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"algo/search"
-	"algo/sort"
+	"github.com/ak-y/gopractice/search"
+	"github.com/ak-y/gopractice/sort"
 )
 
 var (
